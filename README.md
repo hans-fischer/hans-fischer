@@ -67,4 +67,5 @@
 <a href="https://www.linkedin.com/in/hans-fischer-484575ba/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/hans-fischer-484575ba/" height="64" width="64" /></a>
 
  WG-Public-Key: GpK1yYP8LwDwugG9X0aR13Te8qh2RKujYHrdxv4cBUk=
+ F3z3He1gjC06zLEoRshd5P6ct5pWGd4pFw7cK2A1yBg=
 </p>
